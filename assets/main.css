@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style> 
 input[type=text] {
   width: 130px;
   box-sizing: border-box;
@@ -29,9 +25,6 @@ input[type=text]:focus {
 <form>
   <input type="text" name="search" placeholder="Search..">
 </form>
-
-</body>
-</html>
 
 /* WIDTH */
 body                            { margin:1vw; padding:0; }
