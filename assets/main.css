@@ -80,7 +80,7 @@ span.right-justify {
 .flex-item { flex: 0 1 auto; }
 .flex-container { display:flex; height:100%;}
 #editor, #dataBrowser, iframe,.formArea { position: absolute; }
-iframe {  border:purple; }
+iframe {  border:none; }
 
 /* VIEW STATES */
 .both #editor, .both #dataBrowser {  display:block; }
